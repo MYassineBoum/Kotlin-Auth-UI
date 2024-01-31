@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="bonjour">Bonjour tout le monde!</string>
+    <string name="nouveau">Nouveau Compte</string>
+    <string name="login">Login</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="connect">CONNECTER</string>
+</resources>
